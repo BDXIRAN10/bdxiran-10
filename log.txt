@@ -1,4 +1,0 @@
-02-23 07:55:24.824  1950  3080 D _V_VivoObserver: notifyAppDiedForVirtualDisplay app: ProcessRecord{6469440 8112:com.google.android.cellbroadcastreceiver/u0a183}
-02-23 08:51:06.154  6469  6469 E oid.apps.photo: Not starting debugger since process cannot load the jdwp agent.
-02-23 08:57:52.015  1950  2165 E libprocessgroup: Error encountered killing process cgroup uid 10158 pid 6469: Permission denied
-02-23 08:57:52.054  1950  2131 E _V_VivoVibratorServiceImpl: onProcessDied pid: 6469,uid: 10158
